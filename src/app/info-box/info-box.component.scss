@@ -1,0 +1,11 @@
+:host {
+  &.hidden {
+    display: none;
+  }
+}
+
+div {
+  border: 2px solid lightgray;
+  padding: 1em;
+  margin-bottom: 1em;
+}
